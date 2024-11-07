@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272637901348",
+    "project_id": "awesomenotification-5be1c",
+    "storage_bucket": "awesomenotification-5be1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272637901348:android:aabd1f7154482f9e9af6b1",
+        "android_client_info": {
+          "package_name": "com.caretutors.awesomenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvK_sk-W2BM-xoR2pLvYgMPLX_77qPZsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
